@@ -1,0 +1,1 @@
+# Program-for-interfacing-three-accelerometers-ADXL345-I2C-bus-with-Arduino-Uno
